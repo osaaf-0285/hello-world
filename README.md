@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
+Osaaf Ali is a dedicated student studying Management and Business Computing. With a keen interest in the intersection of technology and business, Osaaf is passionate about Product Management and is deeply focused on developing skills that bridge the gap between innovative technology solutions and effective business strategies. Eager to learn and apply his knowledge, Osaaf is driven by the challenge of creating impactful products that meet customer needs and drive business success. Always looking for opportunities to grow and collaborate, he is excited to contribute to the future of product management and business technology.
